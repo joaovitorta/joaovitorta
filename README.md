@@ -24,7 +24,7 @@
   ##
 - 👨‍🎓 __Sistema de informação 1º Período__ 
 - 👨‍💻 Estudando Python e Javascript
-- 🔭 Buscando emprego
+- 🔭 Estagiando na Wcom Informática - Cariacica-ES
 - 🎼 Facinado por Música
 
 
