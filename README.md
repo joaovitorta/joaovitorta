@@ -22,8 +22,8 @@
 </div>
   
   ##
-- 👨‍🎓 __Sistema de informação 1º Período__ 
-- 👨‍💻 Estudando Python e Javascript
+- 👨‍🎓 __Sistema de informação 2º Período__ 
+- 👨‍💻 Estudando Java
 - 🔭 Estagiando na Wcom Informática - Cariacica-ES
 - 🎼 Facinado por Música
 
