@@ -24,8 +24,8 @@
 </div>
   
   ##
-- 👨‍🎓 __Sistema de informação 2º Período__ 
-- 👨‍💻 Estudando Java
+- 👨‍🎓 __Sistema de informação 3º Período__ 
+- 👨‍💻 Estudando Angular/.NET/SQL
 - 🔭 Estagiando no Ifes - Campus Vila Velha.
 
 
