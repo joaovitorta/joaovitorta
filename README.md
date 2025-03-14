@@ -3,7 +3,8 @@
 
 <div>
   <a href="https://github.com/joaovitorta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitorta&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joavitorta&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joavitorta&layout=pie&theme=radical)](https://github.com/joavitorta/github-readme-stats)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorta&layout=compact&langs_count=7&theme=merko"/></a>
 </div>
 
