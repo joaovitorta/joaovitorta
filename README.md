@@ -1,13 +1,5 @@
 ## Olá! Eu sou o João Amaral
 
-
-<div>
-  <a href="https://github.com/joaovitorta">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joavitorta&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joavitorta&layout=pie&theme=radical)](https://github.com/joavitorta/github-readme-stats)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorta&layout=compact&langs_count=7&theme=merko"/></a>
-</div>
-
 <div style="display: incline_block"><br>
     <img align="center" alt="Joao-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
     <img align="center" alt="Joao-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
